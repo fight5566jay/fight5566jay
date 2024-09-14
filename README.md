@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🔭 I’m currently working on artificial intelligence of games, mainly using deep learning approach such as AlplaZero, MuZero. 
+- 🔭 I’m currently working on artificial intelligence of games, mainly using deep learning approach such as AlplaZero, MuZero. 
 - 🌱 I’m currently learning deep reinforcement learning, such as PPO.
 - 📫 How to reach me: Contact me by email (fight5566jay.cs03@nycu.edu.tw) if you want!
 
